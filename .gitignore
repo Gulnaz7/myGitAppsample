@@ -1,2 +1,6 @@
 log.txt
 /dir2
+<<<<git<<< HEAD
+=======
+git
+>>>>>>> login
